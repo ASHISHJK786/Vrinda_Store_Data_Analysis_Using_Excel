@@ -32,8 +32,6 @@ The following analyses have been conducted:
 ![Screenshot 2024-09-22 033248](https://github.com/user-attachments/assets/e8569d76-15f8-4b96-bd52-f721e2fc209d)
 
 
-![Screenshot 2024-09-22 033248](https://github.com/user-attachments/assets/c860c610-fbb9-4295-908d-cb665a8616d6)
-
 
 ![Screenshot 2024-09-22 033303](https://github.com/user-attachments/assets/5b9069b7-6a09-440c-bbc2-098b3e5fad0a)
 
